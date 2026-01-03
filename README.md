@@ -1,3 +1,3 @@
-# GYDS Blockchain Developer Guide
+# GYDS Blockchain
 
-This guide explains how to run a node, use the wallet, and interact with the RPC/indexer APIs.
+Hybrid PoS + optional CPU/browser PoW blockchain with GYDS & GYD native coins.
